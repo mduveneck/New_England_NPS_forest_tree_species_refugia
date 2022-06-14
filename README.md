@@ -26,6 +26,8 @@ lost_count_cells = number of cells categorized as lost (using definition describ
 	transition_percent = Percent of cells in map categorized as transition.
 
 	lost_percent = Percent of cells in map categorized as lost.
+	
+Added 6/13/2022 raster .tif files for the refugia layers from 2010 to 2080 for each species/park unit used for the regugia maps.  0=no forest, 1=sustained, 2 =new, 3=lost.
 
 More details about the methods including the forest succession model, climate scenarios, and soils can be found in the following publication.  
 Duveneck, M. J., & Thompson, J. R. (2017). Climate change imposes phenological trade‐offs on forest net primary productivity. Journal of Geophysical Research: Biogeosciences, 122(9), 2298-2313.
